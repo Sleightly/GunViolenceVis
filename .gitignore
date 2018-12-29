@@ -103,5 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-
-buoydata_15001_jun18.dat
+gv_data.csv
