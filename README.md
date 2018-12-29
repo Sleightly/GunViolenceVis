@@ -1,2 +1,2 @@
-# PlasticOcean
-We want to analyze the effects of plastic in our oceans as well as visualize the severity of the problem. 
+# GunViolenceVis
+We want to analyze and visualize gun violence in the U.S. for the past 5 years.
